@@ -21,13 +21,14 @@ class Solution {
             return res;
         }
         q.add(root);
-        int row=0;
+        int order=1;
         while(!q.isEmpty()){
             int n=q.size();
+            order++;
             ArrayList<Integer>l=new ArrayList<>();
             for(int i=0;i<n;i++){
                 TreeNode cur=q.poll();
-                if(row%2==0){
+                if(order%2==0){
                 l.add(cur.val);
                 }else{
                     l.add(0,cur.val);
@@ -39,7 +40,6 @@ class Solution {
                     q.add(cur.right);
                 }
             }
-            row++;
             res.add(l);
         }
         return res;
