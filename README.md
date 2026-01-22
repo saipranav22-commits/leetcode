@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/saipranav22-commits/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saipranav22-commits/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saipranav22-commits/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saipranav22-commits/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
