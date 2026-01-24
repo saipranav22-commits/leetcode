@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saipranav22-commits/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saipranav22-commits/leetcode/tree/master/0016-3sum-closest) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipranav22-commits/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0135-candy](https://github.com/saipranav22-commits/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/saipranav22-commits/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipranav22-commits/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/saipranav22-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saipranav22-commits/leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/saipranav22-commits/leetcode/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saipranav22-commits/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
