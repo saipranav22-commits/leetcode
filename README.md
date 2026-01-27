@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saipranav22-commits/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saipranav22-commits/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/saipranav22-commits/leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saipranav22-commits/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipranav22-commits/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/saipranav22-commits/leetcode/tree/master/0135-candy) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saipranav22-commits/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saipranav22-commits/leetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0056-merge-intervals) |
 ## Binary Search
 |  |
 | ------- |
