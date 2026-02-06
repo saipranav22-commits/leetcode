@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
         List<Integer> ans = new ArrayList<>();
-        if (s == null || s.length() == 0 || words == null || words.length == 0) return ans;
+    // if (s == null || s.length() == 0 || words == null || words.length == 0) return ans;
 
         int n = s.length(), m = words.length, l = words[0].length();
         Map<String, Integer> wordCount = new HashMap<>();
