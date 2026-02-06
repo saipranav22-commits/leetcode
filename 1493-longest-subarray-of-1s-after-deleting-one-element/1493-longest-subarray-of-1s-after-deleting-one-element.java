@@ -3,7 +3,6 @@ class Solution {
         int st=0;
         int max=0;
         int most=0;
-        int count=0;
         HashMap<Integer,Integer>map=new HashMap<>();
         for(int i=0;i<nums.length;i++){
           map.put(nums[i],map.getOrDefault(nums[i],0)+1);
@@ -11,13 +10,10 @@ class Solution {
             most=Math.max(map.get(nums[i]),most);
           }
           while((i-st+1)-most>1){
-            
             map.put(nums[st],map.getOrDefault(nums[st],0)-1);
             st++;
           } 
-          if((i-st+1)>max){
-                max=i-st+1;
-            }
+          max=Math.max(i-st+1,max);
         }
         return max-1;
     }
