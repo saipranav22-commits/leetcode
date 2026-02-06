@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/saipranav22-commits/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/saipranav22-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saipranav22-commits/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/saipranav22-commits/leetcode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/saipranav22-commits/leetcode/tree/master/0152-maximum-product-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saipranav22-commits/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Two Pointers
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/saipranav22-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saipranav22-commits/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saipranav22-commits/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Divide and Conquer
 |  |
