@@ -13,8 +13,8 @@ class Solution {
             map.put(nums[st],map.getOrDefault(nums[st],0)-1);
             st++;
           } 
-          max=Math.max(i-st+1,max);
+          max=Math.max(i-st,max);
         }
-        return max-1;
+        return max;
     }
 }
