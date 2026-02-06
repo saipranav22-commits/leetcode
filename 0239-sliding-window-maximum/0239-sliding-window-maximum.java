@@ -1,6 +1,6 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        final int n = nums.length;
+        int n = nums.length;
         int[] result = new int[n - k + 1];
         Deque<Integer> dq = new ArrayDeque<>();
         for (int i = 0; i < n; i++) {
