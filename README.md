@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saipranav22-commits/leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/saipranav22-commits/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/saipranav22-commits/leetcode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/saipranav22-commits/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/saipranav22-commits/leetcode/tree/master/0322-coin-change) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/saipranav22-commits/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saipranav22-commits/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/saipranav22-commits/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/saipranav22-commits/leetcode/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saipranav22-commits/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saipranav22-commits/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
