@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saipranav22-commits/leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/saipranav22-commits/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/saipranav22-commits/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/saipranav22-commits/leetcode/tree/master/0085-maximal-rectangle) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/saipranav22-commits/leetcode/tree/master/0062-unique-paths) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Union-Find
 |  |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/saipranav22-commits/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
