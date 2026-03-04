@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/saipranav22-commits/leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/saipranav22-commits/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/saipranav22-commits/leetcode/tree/master/0322-coin-change) |
+| [0473-matchsticks-to-square](https://github.com/saipranav22-commits/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saipranav22-commits/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/saipranav22-commits/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/saipranav22-commits/leetcode/tree/master/0322-coin-change) |
+| [0473-matchsticks-to-square](https://github.com/saipranav22-commits/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0518-coin-change-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saipranav22-commits/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/saipranav22-commits/leetcode/tree/master/0473-matchsticks-to-square) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saipranav22-commits/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/saipranav22-commits/leetcode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/saipranav22-commits/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/saipranav22-commits/leetcode/tree/master/0473-matchsticks-to-square) |
 ## Combinatorics
 |  |
 | ------- |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/saipranav22-commits/leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
