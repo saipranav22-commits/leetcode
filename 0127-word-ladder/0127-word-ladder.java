@@ -4,10 +4,11 @@ class Solution {
       if(!set.contains(endWord)){
         return 0;
       }  
-      Queue<String>q=new LinkedList<>();
-    int steps=1;
+    Queue<String>q=new LinkedList<>();
+    int steps=0;
     q.add(beginWord);
     while(!q.isEmpty()){
+        steps++;
         int size=q.size();
         for(int i=0;i<size;i++){
             String word=q.poll();
@@ -26,7 +27,7 @@ class Solution {
               }
             }
         }
-        steps++;
+    
     }
     return 0;
     }
