@@ -9,7 +9,7 @@ public class Solution {
         int i = 0;
         int j = k - 1;
         List<Integer> temp = new ArrayList<>();
-        for (int x = 0; x < k - 1; x++) {
+        for (int x = 0; x < j; x++) {
             temp.add(nums[x]);
         }
         Collections.sort(temp);
