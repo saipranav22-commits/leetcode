@@ -24,7 +24,6 @@ class Solution {
     total=Math.max(total,left+right);
     return Math.max(left,right)+1;
     }
-
     public int diameterOfBinaryTree(TreeNode root) {
        total=0;
        dfs(root);
