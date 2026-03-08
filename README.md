@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saipranav22-commits/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saipranav22-commits/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saipranav22-commits/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipranav22-commits/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0113-path-sum-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saipranav22-commits/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipranav22-commits/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0113-path-sum-ii) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/saipranav22-commits/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/saipranav22-commits/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipranav22-commits/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -357,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/saipranav22-commits/leetcode/tree/master/0164-maximum-gap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
