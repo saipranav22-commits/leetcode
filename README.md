@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## String
 |  |
 | ------- |
