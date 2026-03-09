@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
 ## String
 |  |
 | ------- |
