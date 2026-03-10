@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saipranav22-commits/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saipranav22-commits/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saipranav22-commits/leetcode/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/saipranav22-commits/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/saipranav22-commits/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/saipranav22-commits/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/saipranav22-commits/leetcode/tree/master/0042-trapping-rain-water) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/saipranav22-commits/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saipranav22-commits/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saipranav22-commits/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/saipranav22-commits/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/saipranav22-commits/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/saipranav22-commits/leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/saipranav22-commits/leetcode/tree/master/0076-minimum-window-substring) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/saipranav22-commits/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/saipranav22-commits/leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0064-minimum-path-sum) |
