@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/saipranav22-commits/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/saipranav22-commits/leetcode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/saipranav22-commits/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/saipranav22-commits/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0140-word-break-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saipranav22-commits/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saipranav22-commits/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saipranav22-commits/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saipranav22-commits/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/saipranav22-commits/leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/saipranav22-commits/leetcode/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/saipranav22-commits/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Union-Find
@@ -386,5 +390,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saipranav22-commits/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
