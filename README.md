@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/saipranav22-commits/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/saipranav22-commits/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## String
 |  |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0140-word-break-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saipranav22-commits/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/saipranav22-commits/leetcode/tree/master/0480-sliding-window-median) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saipranav22-commits/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saipranav22-commits/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
