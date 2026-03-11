@@ -3,7 +3,7 @@ class Solution {
        int result[]=new int[nums.length-k+1];
        Deque< Integer> q=new ArrayDeque<>();
        for(int i=0;i<nums.length;i++){
-        if(!q.isEmpty() && q.peekLast()==i-k){
+        if(!q.isEmpty() && q.peekFirst()==i-k){
             q.pollFirst();
         }
         while(!q.isEmpty() && nums[q.peekLast()]<nums[i]){
