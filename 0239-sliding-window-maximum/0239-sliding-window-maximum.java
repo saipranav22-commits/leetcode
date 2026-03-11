@@ -3,6 +3,7 @@ class Solution {
         int n = nums.length;
         int[] result = new int[n - k + 1];
         Deque<Integer> dq = new ArrayDeque<>();
+        int l=0;
         for (int i = 0; i < n; i++) {
             if (!dq.isEmpty() && dq.peekFirst() == i - k) {
                 dq.pollFirst();
@@ -12,7 +13,7 @@ class Solution {
             }
             dq.offerLast(i);
             if (i >= k - 1) {
-                result[i - k + 1] = nums[dq.peekFirst()];
+                result[l++] = nums[dq.peekFirst()];
             }
         }
         return result;
