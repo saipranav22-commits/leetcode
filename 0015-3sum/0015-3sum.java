@@ -25,8 +25,8 @@ class Solution {
             }else{
                 right--;
             }
+            
             }
-
         }
         return res;
     }
