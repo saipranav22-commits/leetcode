@@ -408,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saipranav22-commits/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/saipranav22-commits/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
