@@ -1,10 +1,14 @@
 class Solution {
-    public int climbStairs(int n) {
-     int[] dp =new int[n+1];
-        Arrays.fill(dp,1);
-        for(int i=2;i<=n;i++){
-            dp[i]=dp[i-1]+dp[i-2];
+    static int rec(int dp[],int n){
+        if(n<=1){
+            return dp[n] = 1;
         }
-        return dp[n];
+        if(dp[n]!=-1)return dp[n];
+        return dp[n]=rec(dp,n-1)+rec(dp,n-2);
+    }
+    public int climbStairs(int n) {
+      int dp[]=new int[n+1];
+      Arrays.fill(dp,-1);
+      return rec(dp,n);
     }
 }
