@@ -1,7 +1,7 @@
 class Solution {
     static int rec(int dp[],int n){
         if(n<=1){
-            return dp[n] = 1;
+            return 1;
         }
         if(dp[n]!=-1)return dp[n];
         return dp[n]=rec(dp,n-1)+rec(dp,n-2);
