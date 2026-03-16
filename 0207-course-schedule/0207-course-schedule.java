@@ -21,10 +21,8 @@ class Solution {
        for(int i=0;i<n;i++){
         if(in[i]==0){
             q.add(i);
-            in[i]--;
         }
-       }
-
+    }
        while(!q.isEmpty()){
         int key=q.poll();
         count++;
