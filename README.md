@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/saipranav22-commits/leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/saipranav22-commits/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saipranav22-commits/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/saipranav22-commits/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/saipranav22-commits/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saipranav22-commits/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saipranav22-commits/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saipranav22-commits/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bit Manipulation
 |  |
