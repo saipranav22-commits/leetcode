@@ -1,39 +1,43 @@
 class Solution {
-    static HashMap<Integer,List<Integer>>map;
-    static boolean check[];
+    public boolean canFinish(int n, int[][] pre) {
+        HashMap<Integer,List<Integer>>map=new HashMap<>();
+       for(int i=0;i<pre.length;i++){
+        int u=pre[i][0];
+        int v=pre[i][1];
+        map.putIfAbsent(u,new ArrayList<>());
+        map.putIfAbsent(v,new ArrayList<>());
+        map.get(u).add(v);
+       } 
+       int in[]=new int[n];
 
-    static boolean dfs(int i){
-      if(check[i]){
-        return false;
-      }
-      if(!map.containsKey(i) || map.get(i).size()==0){
-        return true;
-      }
-     check[i]=true;
-      for(int n:map.get(i)){
-        if(dfs(n)==false){
-            return false;
+       for(int key:map.keySet()){
+        for(int nei:map.get(key)){
+            in[nei]++;
         }
-      }
-      check[i]=false;
-      map.put(i,new ArrayList<>());
-      return true;
-    }
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
-    check=new boolean[numCourses];
-    map=new HashMap<>();
-    for(int i=0;i<prerequisites.length;i++){
-       int u=prerequisites[i][0];
-       int v=prerequisites[i][1];
-       map.putIfAbsent(u,new ArrayList<>());
-       map.putIfAbsent(v,new ArrayList<>());
-       map.get(u).add(v);
-    }
-    for(int i=0;i<numCourses;i++){
-        if(dfs(i)==false){
-            return false;
+       }
+       Queue<Integer>q=new LinkedList<>();
+       int count=0;
+
+       for(int i=0;i<n;i++){
+        if(in[i]==0){
+            q.add(i);
+            in[i]--;
         }
-    }
-    return true;
+       }
+
+       while(!q.isEmpty()){
+        int key=q.poll();
+        count++;
+        if(!map.containsKey(key)){
+            continue;
+        }
+        for(int add:map.get(key)){
+            in[add]--;
+            if(in[add]==0){
+               q.add(add);
+            }
+        }
+       }
+       return count==n;
     }
 }
