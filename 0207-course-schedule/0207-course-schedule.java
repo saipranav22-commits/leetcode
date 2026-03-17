@@ -5,7 +5,6 @@ class Solution {
         int u=pre[i][0];
         int v=pre[i][1];
         map.putIfAbsent(u,new ArrayList<>());
-        map.putIfAbsent(v,new ArrayList<>());
         map.get(u).add(v);
        } 
        int in[]=new int[n];
