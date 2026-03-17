@@ -17,10 +17,6 @@ class Solution {
     }
 
     public int numIslands(char[][] grid) {
-
-        // if (grid == null || grid.length == 0)
-        //     return 0;
-
         arr = grid;
         row = grid.length;
         col = grid[0].length;
