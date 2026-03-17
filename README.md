@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saipranav22-commits/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipranav22-commits/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/saipranav22-commits/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1768-merge-strings-alternately](https://github.com/saipranav22-commits/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saipranav22-commits/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/saipranav22-commits/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saipranav22-commits/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/saipranav22-commits/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
 |  |
