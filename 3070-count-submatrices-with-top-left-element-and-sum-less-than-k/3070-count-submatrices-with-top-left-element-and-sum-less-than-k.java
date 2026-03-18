@@ -25,9 +25,16 @@ class Solution {
             boolean stop=false;
             for(int j=0;j<m;j++){
                 if(sum[i][j]<=k) ans++;
-                else{if(j==0) stop=true; break;}
+                else{
+                    if(j==0) {
+                        stop=true;
+                    } 
+                    break;
+                    }
             }
-            if(stop) break;
+            if(stop){
+                break;
+            }
         }
         return ans;
     }
