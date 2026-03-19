@@ -1,5 +1,3 @@
-
-
 class Solution {
     public int numSubmatrixSumTarget(int[][] matrix, int target) {
         int m = matrix.length;
@@ -26,7 +24,6 @@ class Solution {
                 }
             }
         }
-
         return count;
     }
 }
