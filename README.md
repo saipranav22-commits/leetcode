@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saipranav22-commits/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/saipranav22-commits/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/saipranav22-commits/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saipranav22-commits/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saipranav22-commits/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/saipranav22-commits/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saipranav22-commits/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saipranav22-commits/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/saipranav22-commits/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Queue
 |  |
 | ------- |
