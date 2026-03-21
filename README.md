@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/saipranav22-commits/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/saipranav22-commits/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/saipranav22-commits/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/saipranav22-commits/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0063-unique-paths-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saipranav22-commits/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saipranav22-commits/leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/saipranav22-commits/leetcode/tree/master/0164-maximum-gap) |
 | [0295-find-median-from-data-stream](https://github.com/saipranav22-commits/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/saipranav22-commits/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/saipranav22-commits/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/saipranav22-commits/leetcode/tree/master/0131-palindrome-partitioning) |
