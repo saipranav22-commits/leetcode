@@ -12,7 +12,7 @@ class Solution {
 
     void permute(int[] nums, int n, int l, boolean[] bool, List<Integer> list, List<List<Integer>> ans)
     {
-        if(list.size() == n)
+        if(l == n)
         {
             ans.add(new ArrayList<>(list));
             return;
