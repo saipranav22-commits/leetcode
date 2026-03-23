@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipranav22-commits/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/saipranav22-commits/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saipranav22-commits/leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/saipranav22-commits/leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/saipranav22-commits/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/saipranav22-commits/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/saipranav22-commits/leetcode/tree/master/0322-coin-change) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/saipranav22-commits/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/saipranav22-commits/leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/saipranav22-commits/leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/saipranav22-commits/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/saipranav22-commits/leetcode/tree/master/0322-coin-change) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/saipranav22-commits/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/saipranav22-commits/leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/saipranav22-commits/leetcode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0994-rotting-oranges](https://github.com/saipranav22-commits/leetcode/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/saipranav22-commits/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
