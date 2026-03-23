@@ -17,7 +17,7 @@ class Solution {
         if(map.containsKey(next)){
             int nextind=map.get(next);
             if(rec(nextind,i,n,stones,dp)){
-               dp[ind][i]=1; 
+               dp[ind][jump]=1; 
         return true;
         }
         }
