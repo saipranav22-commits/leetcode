@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipranav22-commits/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/saipranav22-commits/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1768-merge-strings-alternately](https://github.com/saipranav22-commits/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/saipranav22-commits/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/saipranav22-commits/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/saipranav22-commits/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2396-strictly-palindromic-number](https://github.com/saipranav22-commits/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -477,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/saipranav22-commits/leetcode/tree/master/0146-lru-cache) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/saipranav22-commits/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
