@@ -31,7 +31,6 @@ class Solution {
         ListNode newHead = current.next;
         current.next = null;
         dummy.next = head;
-
         return newHead;        
     }
 }
