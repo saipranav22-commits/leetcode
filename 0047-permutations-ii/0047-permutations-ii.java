@@ -1,42 +1,20 @@
 class Solution {
-    public List<List<Integer>> permuteUnique(int[] nums) 
-    {
-        List<List<Integer>> ans = new ArrayList<>();
-        int n = nums.length;
-        Arrays.sort(nums);
+    public List<List<Integer>> permuteUnique(int[] nums) {
+   List<List<Integer>> list = new ArrayList<>();
+   backtrack(list, new ArrayList<>(), nums);
+   return list;
+}
 
-        permute(nums, n, 0, new boolean[n], new ArrayList<>(), ans);
-
-        return ans;
-    }
-
-    void permute(int[] nums, int n, int l, boolean[] bool, List<Integer> list, List<List<Integer>> ans)
-    {
-        if(l == n)
-        {
-            ans.add(new ArrayList<>(list));
-            return;
-        }
-
-        for(int i = 0; i < n; i++)
-        {
-            if(bool[i])
-            {
-                continue;
-            }
-
-            list.add(nums[i]);
-            bool[i] = true;
-
-            permute(nums, n, l + 1, bool, list, ans);
-
-            bool[i] = false;
-            list.remove(list.size() - 1);
-
-            while(i + 1 < n && nums[i] == nums[i + 1])
-            {
-                i++;
-            }
-        }
-    }
+private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] nums){
+   if(tempList.size() == nums.length){
+      list.add(new ArrayList<>(tempList));
+   } else{
+      for(int i = 0; i < nums.length; i++){ 
+         if(tempList.contains(nums[i])) continue; 
+         tempList.add(nums[i]);
+         backtrack(list, tempList, nums);
+         tempList.remove(tempList.size() - 1);
+      }
+   }
+} 
 }
