@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/saipranav22-commits/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/saipranav22-commits/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/saipranav22-commits/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0064-minimum-path-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saipranav22-commits/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saipranav22-commits/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/saipranav22-commits/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/saipranav22-commits/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saipranav22-commits/leetcode/tree/master/0064-minimum-path-sum) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saipranav22-commits/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/saipranav22-commits/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/saipranav22-commits/leetcode/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saipranav22-commits/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saipranav22-commits/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
