@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saipranav22-commits/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/saipranav22-commits/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saipranav22-commits/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/saipranav22-commits/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saipranav22-commits/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/saipranav22-commits/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saipranav22-commits/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String Matching
 |  |
