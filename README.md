@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saipranav22-commits/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/saipranav22-commits/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/saipranav22-commits/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2540-minimum-common-value](https://github.com/saipranav22-commits/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/saipranav22-commits/leetcode/tree/master/2615-sum-of-distances) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saipranav22-commits/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/saipranav22-commits/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1768-merge-strings-alternately](https://github.com/saipranav22-commits/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/saipranav22-commits/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/saipranav22-commits/leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/saipranav22-commits/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/saipranav22-commits/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0713-subarray-product-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saipranav22-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2540-minimum-common-value](https://github.com/saipranav22-commits/leetcode/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/saipranav22-commits/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saipranav22-commits/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2540-minimum-common-value](https://github.com/saipranav22-commits/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/saipranav22-commits/leetcode/tree/master/2615-sum-of-distances) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
