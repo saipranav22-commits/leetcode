@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/saipranav22-commits/leetcode/tree/master/0480-sliding-window-median) |
 | [0518-coin-change-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saipranav22-commits/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0704-binary-search](https://github.com/saipranav22-commits/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saipranav22-commits/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/saipranav22-commits/leetcode/tree/master/0994-rotting-oranges) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipranav22-commits/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/saipranav22-commits/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/saipranav22-commits/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0704-binary-search](https://github.com/saipranav22-commits/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saipranav22-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/saipranav22-commits/leetcode/tree/master/2540-minimum-common-value) |
