@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/saipranav22-commits/leetcode/tree/master/1340-jump-game-v) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saipranav22-commits/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/saipranav22-commits/leetcode/tree/master/1871-jump-game-vii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Two Pointers
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saipranav22-commits/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/saipranav22-commits/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/saipranav22-commits/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1871-jump-game-vii](https://github.com/saipranav22-commits/leetcode/tree/master/1871-jump-game-vii) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/saipranav22-commits/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/saipranav22-commits/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/saipranav22-commits/leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saipranav22-commits/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saipranav22-commits/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/saipranav22-commits/leetcode/tree/master/1871-jump-game-vii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Divide and Conquer
 |  |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/saipranav22-commits/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/saipranav22-commits/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1871-jump-game-vii](https://github.com/saipranav22-commits/leetcode/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/saipranav22-commits/leetcode/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saipranav22-commits/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
