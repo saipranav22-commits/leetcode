@@ -1,20 +1,20 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
         int ans=0;
-        HashMap<Character,Integer>map=new HashMap<>();
+        HashSet<Character>map=new HashSet<>();
         HashSet<Character>set=new HashSet<>();
         for(int i=0;i<word.length();i++){
             char c=word.charAt(i);
-            char ch=(char)(c+32);
-            char che=(char)(c-32);
-            if(Character.isUpperCase(c) && map.containsKey(ch) && !set.contains(c)){
+            char ch=Character.toLowerCase(c);
+            char che=Character.toUpperCase(c);
+            if(map.contains(ch)  && !set.contains(c)){
              ans++;
             }
 
-            if(Character.isLowerCase(c) && map.containsKey(che) && !set.contains(c)){
+            if(map.contains(che) && !set.contains(c)){
              ans++;
             }
-            map.put(c,map.getOrDefault(c,0)+1);
+            map.add(c);
             set.add(c);
             
         }
