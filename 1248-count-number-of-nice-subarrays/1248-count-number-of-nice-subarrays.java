@@ -1,20 +1,26 @@
 class Solution {
-    int atmost(int []nums, int k){
-        int n = nums.length;
-        int l = 0;
-        int count = 0;
-        for(int r = 0; r < n; r++){
-            if(nums[r] % 2 != 0) k--;
-
-            while(k < 0){
-                if(nums[l] % 2 != 0) k++;
-                l++;
+    public int numberOfSubarrays(int[] nums, int k) {
+        int odd=0;
+        int ans=0;
+        int st=0;
+        int n=nums.length;
+        int count=0;
+        
+        for(int i=0;i<n;i++){
+            int val=nums[i];
+            if(val%2!=0){
+                odd++;
+                count=0;
             }
-            count += r - l + 1;
+            while(odd==k){
+                count++;
+                if(nums[st]%2!=0){
+                    odd--;
+                }
+                st++;
+            }
+            ans+=count;
         }
-        return count;
+        return ans;
     }
-    int numberOfSubarrays(int[]nums, int k) {
-        return atmost(nums, k) - atmost(nums, k - 1);
-    }
-};
+}
