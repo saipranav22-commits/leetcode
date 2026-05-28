@@ -1,24 +1,29 @@
 class Solution {
-    static int ans(int nums[],int k){
-                HashMap<Integer,Integer>map=new HashMap<>();
-        int res=0;
+    public int slide(int nums[],int k){
         int st=0;
-        for(int i=0;i<nums.length;i++){
-            int add=nums[i];
-            map.put(add,map.getOrDefault(add,0)+1);
+        int ans=0;
+        int n=nums.length;
+        HashMap<Integer,Integer>map=new HashMap<>();
+
+        for(int i=0;i<n;i++){
+            int val=nums[i];
+            map.put(val,map.getOrDefault(val,0)+1);
             while(map.size()>k){
                 int rem=nums[st];
+                
                 map.put(rem,map.getOrDefault(rem,0)-1);
                 if(map.get(rem)==0){
-                map.remove(rem);
+                    map.remove(rem);
                 }
+
                 st++;
             }
-        res+=i-st+1;
+            ans+=i-st+1;
         }
-        return res;
+        return ans;
+
     }
     public int subarraysWithKDistinct(int[] nums, int k) {
-       return ans(nums,k)-ans(nums,k-1);
+        return slide(nums,k)-slide(nums,k-1);
     }
 }
