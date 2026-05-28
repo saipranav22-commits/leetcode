@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saipranav22-commits/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3026-maximum-good-subarray-sum](https://github.com/saipranav22-commits/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/saipranav22-commits/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saipranav22-commits/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/saipranav22-commits/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/saipranav22-commits/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3026-maximum-good-subarray-sum](https://github.com/saipranav22-commits/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saipranav22-commits/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saipranav22-commits/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/saipranav22-commits/leetcode/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/saipranav22-commits/leetcode/tree/master/2615-sum-of-distances) |
+| [3026-maximum-good-subarray-sum](https://github.com/saipranav22-commits/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saipranav22-commits/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/saipranav22-commits/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
