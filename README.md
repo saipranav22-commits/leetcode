@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/saipranav22-commits/leetcode/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/saipranav22-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/saipranav22-commits/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/saipranav22-commits/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/saipranav22-commits/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/saipranav22-commits/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saipranav22-commits/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/saipranav22-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saipranav22-commits/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/saipranav22-commits/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saipranav22-commits/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/saipranav22-commits/leetcode/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/saipranav22-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saipranav22-commits/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/saipranav22-commits/leetcode/tree/master/0480-sliding-window-median) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
