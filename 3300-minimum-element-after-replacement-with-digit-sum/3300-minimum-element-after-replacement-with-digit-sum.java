@@ -12,8 +12,7 @@ class Solution {
     public int minElement(int[] nums) {
         int min=Integer.MAX_VALUE;
         for(int i=0;i<nums.length;i++){
-            int get=sum(nums[i]);
-            min=Math.min(get,min);
+            min=Math.min(min,sum(nums[i]));
         }
         return min;
     }
