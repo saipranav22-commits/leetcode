@@ -4,14 +4,16 @@ class Solution {
             return false;
         }
         TreeMap<Character,Integer>fre=new TreeMap<>();
-        for(char c:s.toCharArray()){
-            fre.merge(c,1,Integer::sum);
+        for(int i=0;i<s.length();i++){
+            char c=s.charAt(i);
+        fre.put(c,fre.getOrDefault(c,0)+1);
         }
-        for(char c:t.toCharArray()){
-            Integer val=fre.merge(c,-1,Integer::sum);
-            if(val==null || val<0){
-                return false;
+         for(int i=0;i<t.length();i++){
+            char c=t.charAt(i);
+            if(!fre.containsKey(c)||fre.get(c)==0){
+              return false;  
             }
+            fre.put(c,fre.getOrDefault(c,0)-1);
         }
         return true;
     }
