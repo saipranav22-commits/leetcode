@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/saipranav22-commits/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/saipranav22-commits/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/saipranav22-commits/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/saipranav22-commits/leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/saipranav22-commits/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/saipranav22-commits/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/saipranav22-commits/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
 |  |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/saipranav22-commits/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saipranav22-commits/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0797-all-paths-from-source-to-target](https://github.com/saipranav22-commits/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Combinatorics
 |  |
 | ------- |
