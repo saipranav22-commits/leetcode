@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saipranav22-commits/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/saipranav22-commits/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2126-destroying-asteroids](https://github.com/saipranav22-commits/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saipranav22-commits/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/saipranav22-commits/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/saipranav22-commits/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/saipranav22-commits/leetcode/tree/master/2615-sum-of-distances) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saipranav22-commits/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/saipranav22-commits/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2126-destroying-asteroids](https://github.com/saipranav22-commits/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saipranav22-commits/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/saipranav22-commits/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saipranav22-commits/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saipranav22-commits/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2126-destroying-asteroids](https://github.com/saipranav22-commits/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saipranav22-commits/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/saipranav22-commits/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Binary Search
 |  |
