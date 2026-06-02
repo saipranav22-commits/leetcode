@@ -8,23 +8,26 @@
  * }
  */
 class Solution {
-    static TreeNode dfs(TreeNode root,TreeNode p,TreeNode q){
+    public TreeNode dfs(TreeNode root,TreeNode p,TreeNode q){
         if(root==null || root==p || root==q){
             return root;
         }
+
         TreeNode a=dfs(root.left,p,q);
         TreeNode b=dfs(root.right,p,q);
+
         if(a!=null && b!=null){
             return root;
         }
         if(a!=null){
             return a;
-        }else{
-            return b;
         }
-
+        else{
+        return b;
+        }
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        if(root==null)return root;
         return dfs(root,p,q);
     }
 }
