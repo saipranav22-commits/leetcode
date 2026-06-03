@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/saipranav22-commits/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/saipranav22-commits/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/saipranav22-commits/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/saipranav22-commits/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Dynamic Programming
 |  |
 | ------- |
