@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saipranav22-commits/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saipranav22-commits/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/saipranav22-commits/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/saipranav22-commits/leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/saipranav22-commits/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saipranav22-commits/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saipranav22-commits/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
