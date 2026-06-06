@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/saipranav22-commits/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/saipranav22-commits/leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/saipranav22-commits/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saipranav22-commits/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saipranav22-commits/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/saipranav22-commits/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/saipranav22-commits/leetcode/tree/master/2615-sum-of-distances) |
 | [3026-maximum-good-subarray-sum](https://github.com/saipranav22-commits/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saipranav22-commits/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/saipranav22-commits/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saipranav22-commits/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/saipranav22-commits/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saipranav22-commits/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/saipranav22-commits/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saipranav22-commits/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/saipranav22-commits/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saipranav22-commits/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saipranav22-commits/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saipranav22-commits/leetcode/tree/master/0062-unique-paths) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/saipranav22-commits/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Memoization
 |  |
 | ------- |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/saipranav22-commits/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saipranav22-commits/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saipranav22-commits/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/saipranav22-commits/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## String Matching
 |  |
 | ------- |
