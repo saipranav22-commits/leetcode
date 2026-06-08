@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/saipranav22-commits/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saipranav22-commits/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/saipranav22-commits/leetcode/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/saipranav22-commits/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/saipranav22-commits/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/saipranav22-commits/leetcode/tree/master/0274-h-index) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/saipranav22-commits/leetcode/tree/master/0164-maximum-gap) |
+| [0229-majority-element-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saipranav22-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/saipranav22-commits/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/saipranav22-commits/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saipranav22-commits/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/saipranav22-commits/leetcode/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saipranav22-commits/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saipranav22-commits/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/saipranav22-commits/leetcode/tree/master/0480-sliding-window-median) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saipranav22-commits/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saipranav22-commits/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/saipranav22-commits/leetcode/tree/master/2833-furthest-point-from-origin) |
