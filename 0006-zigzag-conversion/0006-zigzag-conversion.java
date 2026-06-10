@@ -1,44 +1,34 @@
 class Solution {
-    public String convert(String s, int numRows) {
-        if (numRows == 1 || numRows >= s.length()) {
+    public String convert(String s, int num) {
+        if(num==1 || num>s.length()){
             return s;
         }
-
-        int idx = 0, d = 1;
-        List<List<Character>> l = new ArrayList<>();
-        for (int i = 0; i < numRows; i++) {
-            l.add(new ArrayList<>());
+        
+        List<StringBuilder>res=new ArrayList<>();
+        for(int i=0;i<num;i++){
+            res.add(new StringBuilder());
         }
-        int ind = 0;
-        int pos = 0;
+        int ind=0;
+        int d=0;
 
-        for (char c : s.toCharArray()) {
-            l.get(pos).add(c);
+        for(char c:s.toCharArray()){
+            res.get(ind).append(c);
 
-            if (ind == 0) {
-                if (pos == numRows - 1) {
-                    ind = 1;
-                    pos--;
-                } else {
-                    pos++;
-                }
-            } else {
-                if (pos == 0) {
-                    ind = 0;
-                    pos++;
-                } else {
-                    pos--;
-                }
+            if(ind==0){
+                d=1;
+            }else if(ind==num-1){
+               d=-1;
             }
+
+            ind+=d;
         }
 
-        StringBuilder result = new StringBuilder();
-        for (List<Character> row : l) {
-            for (char c : row) {
-                result.append(c);
-            }
+        StringBuilder ans=new StringBuilder();
+
+        for(StringBuilder str:res){
+            ans.append(str);
         }
 
-        return result.toString();
+        return ans.toString();
     }
 }
