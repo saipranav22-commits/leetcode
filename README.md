@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/saipranav22-commits/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/saipranav22-commits/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## String
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saipranav22-commits/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/saipranav22-commits/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saipranav22-commits/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/saipranav22-commits/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saipranav22-commits/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
