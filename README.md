@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/saipranav22-commits/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/saipranav22-commits/leetcode/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/saipranav22-commits/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0480-sliding-window-median](https://github.com/saipranav22-commits/leetcode/tree/master/0480-sliding-window-median) |
 | [0518-coin-change-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0518-coin-change-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/saipranav22-commits/leetcode/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/saipranav22-commits/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/saipranav22-commits/leetcode/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/saipranav22-commits/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saipranav22-commits/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saipranav22-commits/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/saipranav22-commits/leetcode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saipranav22-commits/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saipranav22-commits/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/saipranav22-commits/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/saipranav22-commits/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/saipranav22-commits/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/saipranav22-commits/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1340-jump-game-v](https://github.com/saipranav22-commits/leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saipranav22-commits/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saipranav22-commits/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
