@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/saipranav22-commits/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/saipranav22-commits/leetcode/tree/master/0994-rotting-oranges) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/saipranav22-commits/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/saipranav22-commits/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipranav22-commits/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/saipranav22-commits/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/saipranav22-commits/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/saipranav22-commits/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## String
 |  |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saipranav22-commits/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/saipranav22-commits/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/saipranav22-commits/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/saipranav22-commits/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/saipranav22-commits/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
 |  |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saipranav22-commits/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/saipranav22-commits/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/saipranav22-commits/leetcode/tree/master/0547-number-of-provinces) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/saipranav22-commits/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
