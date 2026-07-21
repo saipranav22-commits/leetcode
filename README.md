@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/saipranav22-commits/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0480-sliding-window-median](https://github.com/saipranav22-commits/leetcode/tree/master/0480-sliding-window-median) |
+| [0517-super-washing-machines](https://github.com/saipranav22-commits/leetcode/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saipranav22-commits/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/saipranav22-commits/leetcode/tree/master/0704-binary-search) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saipranav22-commits/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/saipranav22-commits/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/saipranav22-commits/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0517-super-washing-machines](https://github.com/saipranav22-commits/leetcode/tree/master/0517-super-washing-machines) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saipranav22-commits/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saipranav22-commits/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/saipranav22-commits/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
