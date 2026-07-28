@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/saipranav22-commits/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saipranav22-commits/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2659-make-array-empty](https://github.com/saipranav22-commits/leetcode/tree/master/2659-make-array-empty) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/saipranav22-commits/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/saipranav22-commits/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/saipranav22-commits/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/saipranav22-commits/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/saipranav22-commits/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/saipranav22-commits/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/saipranav22-commits/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/saipranav22-commits/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/saipranav22-commits/leetcode/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/saipranav22-commits/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
 |  |
 | ------- |
